@@ -1,0 +1,71 @@
+.main{
+    height: 120px;
+    background-color:#ffdd99;
+    border-style: double;
+    border-color: red;  
+    border-radius: 10px;
+    
+}
+.header img{
+    height: 200px;
+}
+.navbar-default .navbar-nav{
+    border-style: double;
+    border-color: darkblue;  
+    border-radius: 5px;
+    background-color: #ffdd99;
+}
+.main-2{
+    height:300px;
+    background-color:#ffdd99;
+    background-image: url("../images/three.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    border-style: double;
+    border-color: red;  
+    border-radius: 5px;
+
+    
+}
+.head img{
+    height:100px;
+}
+.head h1{
+    float: right;
+    text-transform: uppercase;
+    margin-right: 400px;
+}
+.float-child1 p{
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align:left;
+    font-size: 15px;
+}
+.main-4{
+    float: right;
+   
+}
+.float-container {
+    border: 0px solid #fff;
+}
+
+.float-child {
+    width: 30%;
+    float: left;
+    border: 2px solid red;
+} 
+float-child h2{
+  margin-right: 3px;
+}
+
+.float-child1{
+     width: 70%;
+    float: left;
+    height: 500px;
+    border: 2px solid red;
+     background-color:#ffdd99;
+}
+/*.header-overlay{
+    background-image: url("../images/three.jpg");
+}
